@@ -30,6 +30,25 @@ List each feature plugin contains
 * wishlist item
 
 
+## Documentation
+
+Here is a description of how to use each feature provided by $PluginName.
+
+### Topic A
+
+1. step one
+2. step two
+
+    more instruction.
+    
+        <mt:Sample>
+            <$mt:Code$>
+            <$mt:Here$>
+        </mt:Sample>
+
+3. step three
+
+
 ## Installation
 
 1. Move the $PluginName plugin directory to the MT `plugins` directory.
@@ -55,24 +74,4 @@ This plugin is not an official $AuthorName release, and as such support from $Au
 ## License
 
 This plugin is licensed under the same terms as Perl itself.
-
----
-
-## Documentation
-
-Here is a description of how to use each feature provided by $PluginName.
-
-### Topic A
-
-1. step one
-2. step two
-
-    more instruction.
-    
-        <mt:Sample>
-            <$mt:Code$>
-            <$mt:Here$>
-        </mt:Sample>
-
-3. step three
 
