@@ -2,7 +2,7 @@
 
 Authors: $AuthorName  
 Copyright: YYYY $AuthorName  
-License: Type of License (see below for more info)  
+License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php)
 
 
 ## Overview
