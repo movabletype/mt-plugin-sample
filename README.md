@@ -9,12 +9,15 @@ License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-lice
 
 Provide an overview of your plugin here.
 
+> **Note:** This note formatting. Replace "Note:" with "Tip:", "Warning:", "Deprecated:", "Bug:", etc.
+
 
 ## Requirements
 
 * MT 4.x
 * Foo
 * Bar
+* Baz
 
 
 ## Features
@@ -23,11 +26,6 @@ List each feature plugin contains
 
 * feature
     * sub feature
-
-
-## Desired Features
-
-* wishlist item
 
 
 ## Documentation
@@ -63,15 +61,14 @@ Should look like this when installed:
             plugins/
                 $PluginName/
 
-More indepth plugin installation instructions: http://tinyurl.com/easy-plugin-install
+[More in-depth plugin installation instructions](http://tinyurl.com/easy-plugin-install).
+
+
+## Desired Feature Wish List
+
+* add wish-list item here
 
 
 ## Support
 
 This plugin is not an official $AuthorName release, and as such support from $AuthorName for this plugin is not available.
-
-
-## License
-
-This plugin is licensed under the same terms as Perl itself.
-
