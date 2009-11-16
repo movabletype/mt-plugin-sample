@@ -2,14 +2,20 @@
 
 Authors: $AuthorName  
 Copyright: YYYY $AuthorName  
-License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php)
-
+License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php)  
+Site: $PluginSite (html page with more info on author's site, plugins.mt.org, or GitHub)  
 
 ## Overview
 
-Provide an overview of your plugin here.
+Provide a short overview of plugin here. List details under "Features".
 
 > **Note:** This note formatting. Replace "Note:" with "Tip:", "Warning:", "Deprecated:", "Bug:", etc.
+
+
+## Features
+
+* feature
+    * sub feature
 
 
 ## Requirements
@@ -18,14 +24,6 @@ Provide an overview of your plugin here.
 * Foo
 * Bar
 * Baz
-
-
-## Features
-
-List each feature plugin contains
-
-* feature
-    * sub feature
 
 
 ## Documentation
@@ -57,9 +55,11 @@ Should look like this when installed:
     $MT_HOME/
         plugins/
             $PluginName/
+                (plugin files here)
         mt-static/
             plugins/
                 $PluginName/
+                    (plugin static files here)
 
 [More in-depth plugin installation instructions](http://tinyurl.com/easy-plugin-install).
 
