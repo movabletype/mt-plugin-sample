@@ -1,9 +1,9 @@
 # $PluginName, a plugin for Movable Type
 
-Authors: $AuthorName
-Copyright: YYYY $AuthorName
-License: GPL
-Site: $PluginSite (html page with more info on author's site, plugins.mt.org, or GitHub)
+* Authors: $AuthorName
+* Copyright: YYYY $AuthorName
+* License: GPL
+* Site: $PluginSite (HTML page with more info on author's site, plugins.mt.org, or GitHub)
 
 ## Overview
 
@@ -60,8 +60,6 @@ Should look like this when installed:
             plugins/
                 $PluginName/
                     (plugin static files here)
-
-[More in-depth plugin installation instructions](http://tinyurl.com/easy-plugin-install).
 
 
 ## Desired Feature Wish List
