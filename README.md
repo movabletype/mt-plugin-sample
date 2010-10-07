@@ -1,9 +1,9 @@
 # $PluginName, a plugin for Movable Type
 
-Authors: $AuthorName  
-Copyright: YYYY $AuthorName  
-License: [Artistic License 2.0](http://www.opensource.org/licenses/artistic-license-2.0.php)  
-Site: $PluginSite (html page with more info on author's site, plugins.mt.org, or GitHub)  
+Authors: $AuthorName
+Copyright: YYYY $AuthorName
+License: GPL
+Site: $PluginSite (html page with more info on author's site, plugins.mt.org, or GitHub)
 
 ## Overview
 
@@ -36,7 +36,7 @@ Here is a description of how to use each feature provided by $PluginName.
 2. step two
 
     more instruction.
-    
+
         <mt:Sample>
             <$mt:Code$>
             <$mt:Here$>
