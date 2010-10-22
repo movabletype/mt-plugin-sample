@@ -1,9 +1,10 @@
-# $PluginName, a plugin for Movable Type
+# $PLUGIN_NAME, a plugin for Movable Type
 
-* Authors: $AuthorName
-* Copyright: YYYY $AuthorName
+* Author: $AUTHOR_NAME
+* Copyright: 2010 $AUTHOR_NAME
 * License: GPL
-* Site: $PluginSite (HTML page with more info on author's site, plugins.mt.org, or GitHub)
+* Site: <http://$WEBSITE/>
+
 
 ## Overview
 
@@ -28,7 +29,8 @@ Provide a short overview of plugin here. List details under "Features".
 
 ## Documentation
 
-Here is a description of how to use each feature provided by $PluginName.
+Here is a description of how to use each feature provided by $PLUGIN_NAME.
+
 
 ### Topic A
 
@@ -47,19 +49,19 @@ Here is a description of how to use each feature provided by $PluginName.
 
 ## Installation
 
-1. Move the $PluginName plugin directory to the MT `plugins` directory.
-2. Move the $PluginName mt-static directory to the `mt-static/plugins` directory.
+1. Move the `$PLUGIN_NAME` plugin directory to the MT `plugins` directory.
+2. Move the `$PLUGIN_NAME` mt-static directory to the `mt-static/plugins` directory.
 
 Should look like this when installed:
 
     $MT_HOME/
         plugins/
-            $PluginName/
-                (plugin files here)
+            $PLUGIN_NAME/
+                [plugin files here]
         mt-static/
             plugins/
-                $PluginName/
-                    (plugin static files here)
+                $PLUGIN_NAME/
+                    [plugin static files here]
 
 
 ## Desired Feature Wish List
@@ -69,4 +71,5 @@ Should look like this when installed:
 
 ## Support
 
-This plugin is not an official $AuthorName release, and as such support from $AuthorName for this plugin is not available.
+This plugin is not an official $AUTHOR_NAME release, and as such support for
+this plugin is not available.
